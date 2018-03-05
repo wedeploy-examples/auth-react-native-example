@@ -1,6 +1,6 @@
-# WeDeploy Auth boilerplate
+# WeDeploy Auth [![Badge](https://img.shields.io/badge/built%20with-wedeploy-00d46a.svg?style=flat)](http://wedeploy.com)
 
-Demonstrates how WeDeploy Auth can be used in React Native environment.
+An example of [WeDeploy Auth](https://wedeploy.com/docs/auth/) on React Native.
 
 ## How to use Auth in React Native?
 
@@ -23,3 +23,6 @@ To set custom URL scheme and enable interacting with incoming and outgoing app l
 
 For setting custom URL scheme you may refer to the [official documentation](https://developer.android.com/training/basics/intents/filters.html)
 
+## License
+
+[BSD-3-Clause](./LICENSE.md), © Liferay, Inc.
