@@ -1,5 +1,5 @@
 const AuthHelper = {
-  url: 'auth-boilerplateauth.wedeploy.io'
+  url: 'auth-<project-name>.wedeploy.io'
 };
 
 
